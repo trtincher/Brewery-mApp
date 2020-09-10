@@ -1,7 +1,14 @@
+.About {
+  margin: auto;
+  margin-bottom: 10rem;
+  width: 60%;
+}
+
 .About h2 {
-  margin: 1rem 0;
+  padding: 2rem;
 }
 
 .About p {
   padding: 0 2rem;
+  text-align: justify;
 }

@@ -6,13 +6,22 @@ function About() {
     <div className="About">
       <h2>About</h2>
       <p>
-        An ice house of the customer sanitizes the grizzly beer toward a Sierra
-        Nevada Pale Ale, or a change for the Harpoon secretly falls in love with
-        another crispy Rolling Rock. An Avery IPA figures out the paternal Dixie
-        Beer. Sometimes a colt 45 behind some Fraoch Heather Ale earns enough
-        for a beer, but a bar tab toward a satellite brewery always assimilates
-        the blood clot! When you see the Budweiser over the milwakees best, it
-        means that the feline Jamaica Red Ale hibernates.
+        This app was inspired by a physical map that I used to keep on my wall.
+        Whenever I would visit a new brewery I would put a pin in the map as a
+        visual reminder of the great experiences.
+      </p>
+      <p>
+        However, there were two problems with that map. One, craft brewing is
+        gaining popularity and new breweries seem to pop up every day. This
+        meant that my physical printed map was almost immediately out of date.
+        Two, It got destroyed during a move because it’s ultimately a fragile
+        piece of paper.
+      </p>
+
+      <p>
+        These defaults of a physical brewery map combined with my nostalgic
+        desire for the map I once had led me to create this digital version. I
+        hope you enjoy it as much as I do, and share with your friends.
       </p>
     </div>
   );
