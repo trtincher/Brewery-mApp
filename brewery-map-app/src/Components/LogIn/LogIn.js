@@ -12,6 +12,7 @@ function LogIn(props) {
   const [user, setUser] = useState({
     email: "",
     password: "",
+    loginErrors: "",
   });
   const [isInvalid, setIsInvalid] = useState(false);
 
