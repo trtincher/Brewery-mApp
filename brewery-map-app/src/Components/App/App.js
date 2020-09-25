@@ -20,6 +20,7 @@ function App() {
   const [visited, setVisited] = useState([]);
   const [filter, setFilter] = useState("");
   const [search, setSearch] = useState("");
+  const [activeUser, setActiveUser] = useState({});
 
   //console.log('App breweryData', breweryData);
   console.log("App faves", faves);
@@ -57,6 +58,8 @@ function App() {
           setFilter,
           search,
           setSearch,
+          activeUser,
+          setActiveUser,
         }}
       >
         <Header />
